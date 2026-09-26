@@ -44,7 +44,7 @@ Esta separación sigue la convención de la guía: «Cumple» no implica que una
 
 ## Evidencia visual
 
-![Proyecto con 20 tareas completadas](01_Proyecto_Completo.png)
+![Proyecto con 20 tareas completadas](proyecto-evaluacion-es-actualizado.png)
 
 <details>
 <summary>Ver etiquetas y justificación del ejemplo</summary>
@@ -75,3 +75,4 @@ Esta separación sigue la convención de la guía: «Cumple» no implica que una
 ## Alcance
 
 Práctica formativa con un anotador humano y revisión asistida por IA. Algunos criterios y textos se ajustaron durante la revisión. No hubo una segunda evaluación humana independiente ni medición de acuerdo entre anotadores. Las capturas corresponden al entorno local; los datos y documentos permiten examinar el trabajo sin instalar Label Studio.
+
