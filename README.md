@@ -1,10 +1,24 @@
-# Evaluación de respuestas de IA en español
+# Spanish AI Response Evaluation — Label Studio
+
+## English summary
+
+A hands-on portfolio project involving **20 Spanish-language synthetic cases**, evaluated in Label Studio across **accuracy, clarity, and instruction following**.
+
+- Applied documented annotation guidelines and recorded evidence for each decision.
+- Identified calculation, translation, summarization, and formatting errors, as well as claims that could not be verified from the available information.
+- Reviewed annotation consistency with AI assistance and exported the completed dataset in JSON format.
+
+This was a guided learning exercise using synthetic examples prepared with AI assistance. The guidelines were refined during the exercise, and some justifications were revised with AI support. It is **not a benchmark of a real model or work commissioned by Rise Data Labs**.
+
+**Explore the evidence:** [annotation guidelines (Spanish)](guia_evaluacion_es.md), [practice report (Spanish)](informe_practica_es.md), and [20 annotated cases (JSON)](evaluaciones_es_final.json). Screenshots and a worked example appear below. No installation is needed to review the portfolio.
+
+## Evaluación de respuestas de IA en español
 
 **20 casos anotados · Label Studio · Exactitud, claridad y seguimiento de instrucciones**
 
 Proyecto personal de portafolio que muestra un flujo de evaluación humana: aplicar criterios, detectar errores, justificar decisiones y revisar la consistencia de las anotaciones.
 
-La muestra utiliza respuestas sintéticas preparadas para una práctica guiada con asistencia de IA. No es una evaluación de rendimiento de un modelo real ni un trabajo encargado por Rise Data Labs; ese nombre aparece en las capturas como contexto de la postulación.
+La muestra utiliza respuestas sintéticas preparadas para una práctica guiada con asistencia de IA. No es una evaluación de rendimiento de un modelo real ni un trabajo encargado por Rise Data Labs.
 
 ## Qué hice
 

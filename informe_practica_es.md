@@ -10,7 +10,7 @@ El participante realizó las anotaciones y recibió orientación y revisión de 
 
 ## Integridad del archivo
 
-Fuente: evaluaciones_es_final.json (exportación de Label Studio del 26 de septiembre de 2026 a las 13:14).
+Fuente: evaluaciones_es_final.json (exportación de Label Studio del 26 de septiembre de 2026 a las 16:18).
 
 La exportación contiene 20 tareas, cada una con una anotación no cancelada, tres etiquetas y una justificación no vacía. Se verificaron las correcciones de los casos 2, 5, 9 y 11. El archivo original no se modificó.
 
@@ -61,5 +61,6 @@ La exportación final incorpora las correcciones editoriales de los casos 16 y 1
 Muestra pequeña, seleccionada para enseñanza y con errores introducidos deliberadamente. Un participante humano y revisión asistida por IA; no hubo segundo anotador humano independiente, referencia externa validada ni medición de acuerdo entre anotadores. La guía evolucionó durante la práctica. No se infiere preparación laboral certificada ni afiliación a una empresa.
 
 Descripción sugerida para el portafolio: «Práctica guiada de evaluación de 20 respuestas sintéticas en español mediante Label Studio. Apliqué una rúbrica de exactitud, claridad y seguimiento de instrucciones, redacté justificaciones y revisé la consistencia de las anotaciones con asistencia de IA».
+
 
 
